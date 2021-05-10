@@ -2,11 +2,12 @@
   
 This is a full-time position starting July 1, 2021.
 
-LREI is looking for a support person who loves to help people, has good interpersonal skills, and an interest in schools and educational technology. You should know how to Google a problem that you need guidance in approaching. You should be able to say things like “I don’t know, but I’ll find out” and unafraid to ask “Hey, can you explain how that system works again?” You should be comfortable with online collaboration tools that help teams communicate and organize their tasks. We hope you are flexible, self-starting, delighted by learning new things, a willingness to ask questions, a positive attitude, and a helpful nature. Ideally, we want someone motivated to learn and assume systems administration responsibilities. We offer professional development opportunities and mentorship for that endeavor.
+LREI is looking for a support person who loves to help people, has good interpersonal skills, and an interest in schools and educational technology. You should know how to Google a problem that you need guidance in approaching. You should be able to "communicate complex ideas/systems/practices to end users concisely and in a manner that meets users where they are," say things like “I don’t know, but I’ll find out” and unafraid to ask “Hey, can you explain how that system works again?” You should be comfortable with online collaboration tools that help teams communicate and organize their tasks. We hope you are flexible, self-starting, delighted by learning new things, are willing to ask questions, have a positive attitude, and are helpful by nature. The ideal candidate is someone motivated to
+learn and assume systems administration responsibilities. We offer professional development opportunities and mentorship for these endeavors.
 
 ## **Duties and Responsibilities:**
 
-The Tech Support Associate coordinates day-to-day support of student/faculty/admin tech devices and applications. LREI utilizes a help desk system; the Associate provides the first line of response for hardware, software, database, cloud, and A/V related issues. In this position, at our lower and middle school location, you will work with students in k-8th grades as well as with adults.
+The Tech Support Associate coordinates day-to-day support of student/faculty/admin tech devices and applications. LREI utilizes a help desk system; the Associate provides the first line of response for hardware, software, database, cloud, and A/V related issues. Working at our lower and middle school campus, the associate will work with students in PreK-8th grades as well as with adults.
 
 In addition to daily support, opportunities exist to learn more complex networking systems, server operating systems, and student information systems. Special projects may include documenting, providing training to faculty and/or staff, and working with student groups.
 
@@ -26,32 +27,28 @@ In addition to daily support, opportunities exist to learn more complex networki
 -   Support the needs of the Technology Department and the School administration as is appropriate and necessary.
 -   Learning and troubleshooting physical wired network switches and wireless access points in collaboration with the Director of Technology.
 
-## **Your basic job requirements will be:**
+## **We are looking for candidates who are:**
 
--   An approachable, patient temperament
--   Self-motivation and comfort working independently or collaboratively
--   Excellent organizational skills, including ability to work on multiple projects and follow through tasks to completion
--   Strong verbal and written communication skills including writing documentation and management of a help ticket workflow.
--   Interest in staying abreast of new technologies
--   Excitement at attending workshops and professional learning opportunities.
+-   Approachable, and have a patient temperament
+-   Self-motivated and comfortable working independently or collaboratively
+-   Highly organized and able to work on multiple projects and follow through tasks to completion
+-   Excellent communicators (verbal and written) and are skilled at documentation and management of help desk tickets workflow.
+-   Interested in staying abreast of new technologies
+-   Committed to their ongoing learning
+-   Excited to support learners and have a teacher’s disposition and love of young people.
+-   Experienced working in a school, camp, or other child-centered environment
+-   Engaged in the evolving role of media and technology in education and society
+-   Able to work one-on-one to train users on software and hardware
+-   Fearless in asking questions or researching when approaching a new problem
+-   Committed to solving problems in an efficient and timely manner.
+-   Able to re-frame problems to find solutions
+-   Tinkerers, makers, and doers.
 
 ## **Computer Science Instructor**
 
 -   Teach three sections a week per semester. The class is titled "Intro to Computer Science with Web Development."
+-   Collaborate with Director of Technology and the Middle School Principal on program design
 -   Communicating with students and families regarding their progress throughout the school year, including the ability to provide suggestions for those interested in pursuing additional pathways for computer science and technology education
-
-
-## **Ideally, you have:**
-
--   A teacher’s disposition and love of young people.
--   Experience working in a school, camp, or other child-centered environment
--   Engagement in the evolving role of media and technology in education and society
--   The ability to work one-on-one to train users on software and hardware
--   A fearlessness of asking questions or researching when approaching a new problem
--   The ability to solve problems in an efficient and timely manner.
--   Discernment within defined procedures and practices.
--   The ability to re-frame problems to find solutions
--   A love of tinkering, making, and doing
 
 ## **Duties and Responsibilities for Summer Months:**
 
