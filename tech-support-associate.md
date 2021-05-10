@@ -37,9 +37,9 @@ In addition to daily support, opportunities exist to learn more complex networki
 
 ## **Computer Science Instructor**
 
--   place text here
--   place text here
--   place text here
+-   Teach three sections a week per semester. The class is titled "Intro to Computer Science with Web Development."
+-   Communicating with students and families regarding their progress throughout the school year, including the ability to provide suggestions for those interested in pursuing additional pathways for computer science and technology education
+
 
 ## **Ideally, you have:**
 
